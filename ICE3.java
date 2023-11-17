@@ -1,3 +1,10 @@
+/**
+ * Joseph Bepo
+ * ICE 3
+ * November 11th 2023
+ * Testing errors.
+ */
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

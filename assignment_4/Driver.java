@@ -1,3 +1,11 @@
+/*!
+
+Joseph Bepo 
+12 December 2023
+This is a Java program to show perishable products with the driver class.
+**/
+
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,3 +1,10 @@
+/*!
+
+Joseph Bepo 
+12 December 2023
+This is a Java program to show perishable products with the driver class.
+**/
+
 public class Product {
     private int sku;
     private String name;
